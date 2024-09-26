@@ -6,20 +6,12 @@
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-# Bluetooth-remote-Control-Car
+# Bluetooth-Remote-Control-Car
 
-This is a fast remote control car that uses bluetooth and a mobile app. This controls the "dataline" between a phone and the arduino and controls the drivetrain.
- 
-```
-  ____  _            _              _   _        _____           
- |  _ \| |          | |            | | | |      / ____|          
- | |_) | |_   _  ___| |_ ___   ___ | |_| |__   | |     __ _ _ __ 
- |  _ <| | | | |/ _ | __/ _ \ / _ \| __| '_ \  | |    / _` | '__|
- | |_) | | |_| |  __| || (_) | (_) | |_| | | | | |___| (_| | |   
- |____/|_|\__,_|\___|\__\___/ \___/ \__|_| |_|  \_____\__,_|_|   
-                                                                 
-                                                         
-```
+
+This is a high-speed remote control car that utilizes Bluetooth technology and a mobile application. Bluetooth serves as the communication link between a mobile phone and the Arduino, which controls the drivetrain. The primary objective of this project was not only to develop an effective wireless system for controlling the car but also to design it to be mechanically sound, enabling it to handle higher speeds.
+
+##Program Explanation
 
 
 ## Authors
