@@ -20,7 +20,7 @@ The car uses a total of 3 motors, 1 large DC motor to spin the wheels, a large s
 The Bluetooth module will receive 1 byte of data (a character) from the mobile app and adjust the servo motors accordingly.
 
 #### Mobile App
-GUI programmed and designed in MIT App Inventor.
+GUI programmed and designed in MIT App Inventor (Open .aia file in MIT App Inventor).
 
 
 ## Authors
