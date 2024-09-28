@@ -13,13 +13,13 @@ This is a high-speed remote control car that utilizes Bluetooth technology and a
 
 ## Program Explanation
 
-####Motor Control
+#### Motor Control
 The car uses a total of 3 motors, 1 large DC motor to spin the wheels, a large servo motor to control steering, and a small 9g servo to act as a mechanical relay and turn the larger motor on or off. Each motor is initialized with some angle in a neutral position.
 
-####Communication with Mobile App (via Bluetooth)
+#### Communication with Mobile App (via Bluetooth)
 The Bluetooth module will receive 1 byte of data (a character) from the mobile app and adjust the servo motors accordingly.
 
-####Mobile App
+#### Mobile App
 GUI programmed and designed in MIT App Inventor.
 
 
