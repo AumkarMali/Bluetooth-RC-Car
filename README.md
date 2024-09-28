@@ -23,6 +23,11 @@ The Bluetooth module will receive 1 byte of data (a character) from the mobile a
 GUI programmed and designed in MIT App Inventor (Open .aia file in MIT App Inventor).
 
 
+![Screenshot](https://i.ibb.co/KX71F6w/Screenshot-2024-09-27-220252.png)
+
+#### Drivetrain
+
+
 ## Authors
 
 - [@AumkarMali](https://www.github.com/AumkarMali)
