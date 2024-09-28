@@ -9,7 +9,7 @@
 # Bluetooth-Remote-Control-Car
 
 
-This is a high-speed remote control car that utilizes Bluetooth technology and a mobile application. Bluetooth serves as the communication link between a mobile phone and the Arduino, which controls the drivetrain. The primary objective of this project was not only to develop an effective wireless system for controlling the car but also to design it to be mechanically sound, enabling it to handle higher speeds.
+This is a high-speed remote control car that employs Bluetooth technology and a mobile application. Bluetooth acts as the communication link between a mobile phone and the Arduino, which manages the drivetrain. The primary objective of this project was not only to develop an effective wireless system for controlling the car but also to ensure that it is mechanically robust, allowing it to handle higher speeds.
 
 ## Program Explanation
 
