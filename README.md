@@ -43,10 +43,3 @@ Download Arduino IDE from https://docs.arduino.cc/software/ide-v1/tutorials/Wind
 https://www.youtube.com/watch?v=K2MKV6ptq0o
 
 
-## Documentation
-
-[Documentation](https://docs.arduino.cc)
-
-
-![Logo](https://www.vectorlogo.zone/logos/arduino/arduino-ar21.png)
-
