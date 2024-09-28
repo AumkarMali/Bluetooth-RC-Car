@@ -30,9 +30,9 @@ GUI programmed and designed in MIT App Inventor (Open .aia file in MIT App Inven
 
 ## Deployment
 
-Download arduino IDE from https://docs.arduino.cc/software/ide-v1/tutorials/Windows
+Download Arduino IDE from https://docs.arduino.cc/software/ide-v1/tutorials/Windows
 
-Upload code to arduino board.
+
 ## Links
 
 ➊ Github: https://github.com/AumkarMali/
