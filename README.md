@@ -25,7 +25,7 @@ GUI programmed and designed in MIT App Inventor (Open .aia file in MIT App Inven
 
 ![Screenshot](https://i.ibb.co/KX71F6w/Screenshot-2024-09-27-220252.png)
 
-#### Drivetrain
+
 
 
 ## Authors
