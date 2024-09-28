@@ -38,8 +38,6 @@ Download Arduino IDE from https://docs.arduino.cc/software/ide-v1/tutorials/Wind
 ➊ Github: https://github.com/AumkarMali/
 
 ➋ Youtube: https://www.youtube.com/channel/UC7rhCKur9bF01lV0pNJNkvA
-## Demo
 
-https://www.youtube.com/watch?v=K2MKV6ptq0o
 
 
